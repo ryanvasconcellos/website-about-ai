@@ -6,13 +6,13 @@
         display: block;
     }
     ol{
-        width: 100%;
+        width: auto;
         margin-left: 15px;
         margin-right: 15px;
         padding-left: 20px;
     }
     li{
-        width: 100%;
+        width: 90%;
         padding-left: 10px;
     }
 }
