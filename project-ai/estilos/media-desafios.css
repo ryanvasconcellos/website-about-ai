@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+@media screen and (max-width: 650px){
+      body{
+        overflow-x: hidden;
+    }
+    .imagem{
+        width: 100%;
+        display: block;
+    }
+}
