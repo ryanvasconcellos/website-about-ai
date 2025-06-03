@@ -86,9 +86,9 @@ main p{
 }
 
 ol{
-    padding-left: 40px;
+    padding-left: 30px;
     min-width: 300px;
-    max-width: 912px;
+    max-width: 900px;
 }
 li{
     line-height: 1.5em;
