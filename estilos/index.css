@@ -111,6 +111,13 @@ main a:visited{
     padding-bottom: 10px;
 }
 
+div.video{
+    text-align: center;
+    margin: auto;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
 /*.container{
     width: 600px;
     margin: 0 auto;
