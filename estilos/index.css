@@ -112,10 +112,21 @@ main a:visited{
 }
 
 div.video{
-    text-align: center;
-    margin: auto;
-    padding-top: 15px;
-    padding-bottom: 15px;
+    /*background-color: #1675b89d;*/
+    background-color: white;
+    margin: 0px -20px 30px -20px;
+    padding: 20px;
+    padding-bottom: 56.6%;
+    position: relative;
+    box-shadow: -2px 6px 20px rgba(0, 0, 0, 0.103);
+}
+
+div.video > iframe{
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    width: 90%;
+    height: 90%;
 }
 
 /*.container{
